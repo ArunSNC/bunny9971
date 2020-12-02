@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **arun.snc@protonmail.com**
 
-- ⚡ CEO of Stupify labs an open source organization **Stupify labs**
+- ⚡ CEO of an open source organization **Stupify labs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
