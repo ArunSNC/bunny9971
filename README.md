@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bunny9971&label=Profile%20views&color=0e75b6&style=flat" alt="bunny9971" /> </p>
 
+- 🔭 I’m currently working with **Dell Technologies and UST Global**
+
 - 🌱 I’m currently learning **Kubernetes**
 
 - 📫 How to reach me **arun.snc@protonmail.com**
